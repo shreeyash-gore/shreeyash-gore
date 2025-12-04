@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreeyash Gore
 
-<!--
-**shreeyash-gore/shreeyash-gore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm an Electronics & Telecommunication Engineering student passionate about VLSI, semiconductor design, embedded systems, HCI, AI tools and open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 **2nd-year Electronics & Telecommunication Engineering Student**
+
+* 🔬 Aspiring **Semiconductor Design Engineer**
+
+* 🧠 Interested in VLSI, electronics, Software design, embedded systems & open source
+
+* 🧩 Exploring **Human–Computer Interaction (HCI)** — understanding how people interact with technology
+
+---
+
+## 🔧 Skills & Tools
+
+### 🖥️ Tech Stack
+
+| Category                   | Tools                                                      |
+| -------------------------- | ---------------------------------------------------------- |
+| **Programming**            | Python, C basics                                           |
+| **Web Development**        | HTML5, CSS, JavaScript                                     |
+| **Software & Tools**       | Git, GitHub, VS Code                                       |
+| **Domains**                | Semiconductor Basics, VLSI Basics, Embedded Systems        |
+
+---
+
+## 📚 Current Projects
+
+* 🧑‍🎓 **Study Buddy Website** – A platform to assist students with organized study tools
+
+---
+
+## 🎯 Goals (2025–2026)
+
+* Build strong, impactful engineering + software projects
+* Build a clean, professional portfolio website to showcase my projects
+* Develop semiconductor & VLSI expertise
+
+---
+
+## 🛠️ What I'm Learning Right Now
+
+* C for engineering problem solving
+* Web development Advanced
+* Git/GitHub workflow for open source
+
+---
+
+## 📫 Let's Connect
+
+* 🔗 LinkedIn: *www.linkedin.com/in/shreeyash-gore*
+
+Thanks for visiting my GitHub! 😊
