@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm an Electronics & Telecommunication Engineering student
 
 | Category                   | Tools                                                      |
 | -------------------------- | ---------------------------------------------------------- |
-| **Programming**            | Python, C basics                                           |
+| **Programming**            | C, Python                                                  |
 | **Web Development**        | HTML5, CSS, JavaScript                                     |
 | **Software & Tools**       | Git, GitHub, VS Code                                       |
 | **Domains**                | Semiconductor Basics, VLSI Basics, Embedded Systems        |
