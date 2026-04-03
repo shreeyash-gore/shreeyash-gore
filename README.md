@@ -13,8 +13,6 @@ Welcome to my GitHub! I'm an Electronics & Telecommunication Engineering student
 
 * 🧠 Interested in VLSI, electronics, Software design, embedded systems & open source
 
-* 🧩 Exploring **Human–Computer Interaction (HCI)** — understanding how people interact with technology
-
 ---
 
 ## 🔧 Skills & Tools
@@ -41,14 +39,6 @@ Welcome to my GitHub! I'm an Electronics & Telecommunication Engineering student
 * Build strong, impactful engineering + software projects
 * Build a clean, professional portfolio website to showcase my projects
 * Develop semiconductor & VLSI expertise
-
----
-
-## 🛠️ What I'm Learning Right Now
-
-* C for engineering problem solving
-* Web development Advanced
-* Git/GitHub workflow for open source
 
 ---
 
